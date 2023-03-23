@@ -249,8 +249,13 @@ footer .navbar{
 	}
 }
 
-.nav1 {
+.navAll .nav1 {
 	flex-wrap: wrap;
 	margin: 0;
 	width: 100%;
+}
+
+.nav1 a {
+	width: auto;
+	flex: 1;
 }
