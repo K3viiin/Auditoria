@@ -232,7 +232,6 @@ footer .navbar{
 
 	* {
 		font-size: small;
-		height: 100vh;
 	}
 
 	.navbar .contenedor {
@@ -255,6 +254,7 @@ footer .navbar{
 	}
 
 	.nav1 {
+		height: 100vh;
 		-ms-flex-align: center;
 		text-align: center;
 	}
