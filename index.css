@@ -251,5 +251,6 @@ footer .navbar{
 
 	.nav1 {
 		-ms-flex-align: center;
+		margin: -30px;
 	}
 }
