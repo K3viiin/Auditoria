@@ -249,6 +249,10 @@ footer .navbar{
 		height: 10vh;
 	}
 
+	.videoContenedor {
+		height: 10vh;
+	}
+
 	main .contenedor {
 		flex-direction: column;
 	}
