@@ -232,6 +232,7 @@ footer .navbar{
 
 	* {
 		font-size: small;
+		height: 100vh;
 	}
 
 	.navbar .contenedor {
