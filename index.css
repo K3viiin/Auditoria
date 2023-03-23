@@ -255,7 +255,7 @@ footer .navbar{
 	width: 100%;
 }
 
-.nav1 a {
+.nav1 div {
 	width: auto;
 	flex: 1;
 }
