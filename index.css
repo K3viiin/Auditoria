@@ -258,7 +258,8 @@ footer .navbar{
 .nav1 div {
 	width: auto;
 	flex: 1;
-	-ms-flex-align: center;
+	flex-direction: row;
+	-ms-flex-align: end;
 }
 
 .nav1 a {
