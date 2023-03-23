@@ -228,8 +228,12 @@ footer .navbar{
 /* * ============================== */
 /* * ====== MEDIA QUERIES ========= */
 /* * ============================== */
-
 @media screen and (max-width: 900px){
+
+	* {
+		font-size: small;
+	}
+
 	.navbar .contenedor {
 		flex-wrap: wrap;
 		margin: 0;
@@ -242,7 +246,7 @@ footer .navbar{
 	}
 
 	.contenedor-imagen {
-		height: 50vh;
+		height: 10vh;
 	}
 
 	main .contenedor {
@@ -251,6 +255,6 @@ footer .navbar{
 
 	.nav1 {
 		-ms-flex-align: center;
-		margin-top: -30px;
+		text-align: center;
 	}
 }
