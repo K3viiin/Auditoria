@@ -260,3 +260,7 @@ footer .navbar{
 	flex: 1;
 	-ms-flex-align: center;
 }
+
+.nav1 a {
+	text-align: center;
+}
