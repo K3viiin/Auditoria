@@ -251,17 +251,8 @@ footer .navbar{
 
 .navAll .nav1 {
 	flex-wrap: wrap;
+	flex-direction: row;
+	-ms-flex-align: center;
 	margin: 0;
 	width: 100%;
-}
-
-.nav1 div {
-	width: auto;
-	flex: 1;
-	flex-direction: row;
-	-ms-flex-align: end;
-}
-
-.nav1 a {
-	text-align: center;
 }
