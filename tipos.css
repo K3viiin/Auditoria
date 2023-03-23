@@ -250,7 +250,8 @@ footer .navbar{
 	}
 
 	.videoContenedor {
-		height: 10vh;
+		flex: auto;
+		height: 5vh;
 	}
 
 	main .contenedor {
