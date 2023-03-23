@@ -228,7 +228,8 @@ footer .navbar{
 /* * ============================== */
 /* * ====== MEDIA QUERIES ========= */
 /* * ============================== */
-@media screen and (max-width: 900px){
+
+@media screen and (max-width: 850px){
 	.navbar .contenedor {
 		flex-wrap: wrap;
 		margin: 0;
@@ -247,6 +248,7 @@ footer .navbar{
 	main .contenedor {
 		flex-direction: column;
 	}
+
 	.navAll .nav1 {
 		flex-wrap: wrap;
 		flex-direction: row;
