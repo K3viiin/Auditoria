@@ -64,7 +64,7 @@ a:hover {
 }
 
 .navbar a:hover {
-	background: #611e40;
+	background: #c53939;
 	color: #000000;
 	text-decoration: none;
 }
@@ -124,7 +124,7 @@ main .contenido .fecha {
 }
 
 .titulo-H1 {
-	color: #ff97cb;
+	color: #ff7777;
 }
 
 .imagen-c-1 {
@@ -195,7 +195,7 @@ footer .navbar{
 .nav1 div {
     position: relative;
     list-style: none;
-	--clr:#ff97cb;
+	--clr:#ff7777;
 }
 
 .nav1 div a {
